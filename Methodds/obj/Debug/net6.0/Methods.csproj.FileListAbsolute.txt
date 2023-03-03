@@ -1,0 +1,15 @@
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\bin\Debug\net6.0\Methods.exe
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\bin\Debug\net6.0\Methods.deps.json
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\bin\Debug\net6.0\Methods.dll
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\bin\Debug\net6.0\Methods.pdb
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.dll
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.pdb
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\Soner\source\repos\CSharpSolution\Methodds\obj\Debug\net6.0\ref\Methods.dll
